@@ -1,0 +1,3 @@
+com.meta.common.aliyun.AliAutoRoute
+com.meta.common.tess4j.Tess4jClient
+com.meta.common.redis.CacheService
